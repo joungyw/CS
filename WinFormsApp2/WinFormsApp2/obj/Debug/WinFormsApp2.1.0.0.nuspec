@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WinFormsApp2</id>
+    <version>1.0.0</version>
+    <authors>WinFormsApp2</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Oracle.ManagedDataAccess" version="21.13.0" exclude="Build,Analyzers" />
+        <dependency id="Oracle.ManagedDataAccess.Core" version="3.21.130" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\cs_work\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json" target="lib\net8.0-windows7.0\WinFormsApp2.runtimeconfig.json" />
+    <file src="C:\cs_work\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll" target="lib\net8.0-windows7.0\WinFormsApp2.dll" />
+  </files>
+</package>

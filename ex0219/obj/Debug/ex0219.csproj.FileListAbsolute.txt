@@ -1,0 +1,10 @@
+C:\cs_work\ex0219\bin\Debug\ex0219.exe.config
+C:\cs_work\ex0219\bin\Debug\ex0219.exe
+C:\cs_work\ex0219\bin\Debug\ex0219.pdb
+C:\cs_work\ex0219\obj\Debug\ex0219.csproj.AssemblyReference.cache
+C:\cs_work\ex0219\obj\Debug\ex0219.Form1.resources
+C:\cs_work\ex0219\obj\Debug\ex0219.Properties.Resources.resources
+C:\cs_work\ex0219\obj\Debug\ex0219.csproj.GenerateResource.cache
+C:\cs_work\ex0219\obj\Debug\ex0219.csproj.CoreCompileInputs.cache
+C:\cs_work\ex0219\obj\Debug\ex0219.exe
+C:\cs_work\ex0219\obj\Debug\ex0219.pdb

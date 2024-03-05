@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WORK\\cs_work\\minitest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47440ACC-A921-4F05-869D-D459519A3BEF}|minitest.csproj|c:\\work\\cs_work\\minitest\\\uC601\uD654\uC120\uD0DD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47440ACC-A921-4F05-869D-D459519A3BEF}|minitest.csproj|solutionrelative:\uC601\uD654\uC120\uD0DD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47440ACC-A921-4F05-869D-D459519A3BEF}|minitest.csproj|c:\\work\\cs_work\\minitest\\\uC601\uD654\uC120\uD0DD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47440ACC-A921-4F05-869D-D459519A3BEF}|minitest.csproj|solutionrelative:\uC601\uD654\uC120\uD0DD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC601\uD654\uC120\uD0DD.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\WORK\\cs_work\\minitest\\\uC601\uD654\uC120\uD0DD.cs",
+              "RelativeDocumentMoniker": "\uC601\uD654\uC120\uD0DD.cs",
+              "ToolTip": "C:\\WORK\\cs_work\\minitest\\\uC601\uD654\uC120\uD0DD.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "\uC601\uD654\uC120\uD0DD.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T08:30:20.736Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uC601\uD654\uC120\uD0DD.cs",
+              "DocumentMoniker": "C:\\WORK\\cs_work\\minitest\\\uC601\uD654\uC120\uD0DD.cs",
+              "RelativeDocumentMoniker": "\uC601\uD654\uC120\uD0DD.cs",
+              "ToolTip": "C:\\WORK\\cs_work\\minitest\\\uC601\uD654\uC120\uD0DD.cs",
+              "RelativeToolTip": "\uC601\uD654\uC120\uD0DD.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T07:03:22.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

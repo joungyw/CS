@@ -1,0 +1,9 @@
+C:\cs_work\TEST\bin\Debug\TEST.exe.config
+C:\cs_work\TEST\bin\Debug\TEST.exe
+C:\cs_work\TEST\bin\Debug\TEST.pdb
+C:\cs_work\TEST\obj\Debug\TEST.csproj.AssemblyReference.cache
+C:\cs_work\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\cs_work\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\cs_work\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\cs_work\TEST\obj\Debug\TEST.exe
+C:\cs_work\TEST\obj\Debug\TEST.pdb
